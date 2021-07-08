@@ -205,8 +205,8 @@ The objective of the project is to use the features (i.e., financial parameters)
 
 **Model Performance Metrices**
 
-  Sensitivity
-![image](https://user-images.githubusercontent.com/60916305/124844001-d181e880-df58-11eb-9dd5-2275564833f7.png)
+![image](https://user-images.githubusercontent.com/60916305/124844099-09892b80-df59-11eb-8ba4-033a580e25ff.png)
+
 
 **Final Model**
   LOGISTIC REGRESSION
