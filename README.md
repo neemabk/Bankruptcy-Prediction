@@ -136,7 +136,9 @@ The objective of the project is to use the features (i.e., financial parameters)
 ### Data Transformation: Each model is run with the following.
 
   Original data
+  
   Scaled data
+  
   SMOTE
  
 ### Analysis of metrices such as accuracy, confusion matrix to determine the best model for the prediction.
